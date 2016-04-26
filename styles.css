@@ -1,0 +1,41 @@
+.headshot {
+  margin-top: 1em;
+  width: 100%;
+}
+
+h2, h4 {
+  font-family: 'Montserrat', sans-serif;
+  color: #000066;
+}
+
+h2 {
+  font-size: 3em;
+}
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.person {
+  margin: 2em 0;
+  border-bottom: 10px solid #e6e6e6;
+}
+
+.person > p {
+  font-size: 1.25em;
+}
+
+.glyphicon-question-sign {
+  font-size: 0.75em;
+  margin-right: 5px;
+}
+
+a {
+  color: #a6a6a6;
+  text-decoration: none;
+}
+
+a:hover, a:active, a:focus {
+  color: #1a1aff;
+  text-decoration: none;
+}
